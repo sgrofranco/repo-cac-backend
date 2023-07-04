@@ -1,2 +1,2 @@
-# repo-cac-backend
-repositorio de codo a codo
+# Repositorio de Proyeto Spring
+repositorio del curso de codo a codo
